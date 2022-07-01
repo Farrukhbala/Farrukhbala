@@ -9,4 +9,4 @@ and I am a Data Scientist with strong passion in Data Science.
 
 ---
 
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/farrukh-bala/)
+- ![image](https://user-images.githubusercontent.com/35742633/176886801-691734f1-26c1-426d-933f-85828115c7fb.png) You can find me on [LinkedIn](https://www.linkedin.com/in/farrukh-bala/)
